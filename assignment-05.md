@@ -1,4 +1,3 @@
-
 ## 1. Improving Dijkstra
 
 In our analysis of the work done by Dijkstra's algorithm, we ended up
